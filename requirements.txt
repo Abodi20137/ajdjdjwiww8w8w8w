@@ -9,7 +9,7 @@ asyncio
 wget
 python-arq
 youtube-search-python==1.4.6
-yt-dlp
+git+https://github.com/ADITYAxSERVER/downloader
 python-dotenv
 gTTS
 googletrans==4.0.0rc1
